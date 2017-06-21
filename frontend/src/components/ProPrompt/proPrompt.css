@@ -1,0 +1,28 @@
+.outer {
+	margin: 24px auto;
+	max-width: 800px;
+	padding: 24px;
+	font-size: 14px;
+	font-weight: 700;
+	color: #888;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	transition: all 0.3s;
+}
+
+.message {
+	line-height: 2em;
+}
+
+.hide {
+	cursor: pointer;
+	float: right;
+	line-height: 2em;
+}
+
+.error-icon {
+	height: 2em !important;
+	width: 2em !important;
+	margin: 0 0.5em !important;
+	vertical-align: -0.5em !important;
+}

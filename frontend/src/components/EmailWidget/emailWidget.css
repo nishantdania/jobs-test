@@ -1,0 +1,44 @@
+.outer {
+	text-align: center;
+	width: 100%;
+	background: #ff5858;
+	margin: 28px auto;
+	box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 0 0 0px rgba(0,0,0,0.08);
+	font-size: 16px;
+	color: #fff;
+	padding: 24px;
+	font-weight: 700;
+}
+
+.outer input {
+	font-size: 14px;
+	padding: 8px;
+	margin: 0 0 0 16px;
+	outline: none;
+	border-radius: 4px;
+	border: none;
+	color: #444;
+	box-shadow: 8px 10px 20px 0 rgba(46,61,73,.15);
+}
+
+.go {
+	padding: 8px;
+	font-size: 14px;
+	background: #ffffff;
+	color: #ff5858;
+	border-radius: 4px;
+	margin: 0 0 0 4px;
+	cursor: pointer;
+	box-shadow: 8px 10px 20px 0 rgba(46,61,73,.15);
+}
+
+.go:hover {
+	box-shadow: 2px 4px 8px 0 rgba(46,61,73,.2);
+}
+
+.icon {
+	height: 2em !important;
+	width: 2em !important;
+	margin: 0 0.5em !important;
+	vertical-align: -0.6em !important;
+}

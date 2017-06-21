@@ -1,0 +1,14 @@
+.outer li {
+	cursor: pointer;
+	color: #444;
+	font-size: 12px;
+	font-weight: 700;
+	margin: 0 0 0 16px;
+	line-height: 28px;
+	transition: all 0.3s;
+}
+
+.outer li:hover {
+	color: #e85252;
+}
+

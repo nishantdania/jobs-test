@@ -1,0 +1,39 @@
+.outer {
+	width: 100%;
+	border-top: solid 1px #ddd;
+	padding: 24px;
+	text-align: center;
+}
+
+.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .2em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+.love {
+	font-size: 12px;
+	color: #555;
+	font-weight: 700;
+}
+
+.suggestions {
+	font-size: 14px;
+	color: #444;
+	padding: 8px;
+}
+
+.suggestion-link {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.outer a {
+	display: inline-block;
+}

@@ -1,0 +1,46 @@
+.container {
+	max-width: 800px; 
+	margin: auto;
+}
+
+.outer {
+	display: block;
+	max-width: 800px;
+	margin: 28px auto;
+	padding: 16px;
+	cursor: pointer;
+	background: white;
+	border-radius: 4px;
+	box-shadow: 0 10px 20px 0 rgba(0,0,0,0.1), 0 0 0 0px rgba(0,0,0,0.08);
+	transition: box-shadow 0.3s;
+}
+
+.outer:hover {
+	box-shadow: 0 1px 2px 0 rgba(0,0,0,0.06), 0 0 0 0px rgba(0,0,0,0.08);
+}
+
+.left-content {
+	float: left;
+}
+
+.right-content {
+	float: right;
+}
+
+.role {
+	font-size: 20px;
+	font-weight: 500;
+	color: #444;
+}
+
+.company {
+	font-size: 14px;
+	color: #888;
+	padding: 4px 0;
+}
+
+.location {
+	color: #888;
+	font-size: 12px;
+	line-height: 48px;
+}

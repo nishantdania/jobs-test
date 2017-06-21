@@ -1,0 +1,20 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishantdania",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6",
+    "node-browser": "0.0.3",
+    "phantom": "^4.0.4",
+    "request": "^2.81.0"
+  }
+}

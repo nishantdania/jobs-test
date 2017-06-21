@@ -1,0 +1,30 @@
+.outer {
+	width : 100%;
+	text-align : center;
+	padding: 40px 0;
+}
+
+.outer h1 {
+	font-weight: 700;
+	margin: 0;
+	padding: 8px 0;
+	color: #222;
+	font-sie: 36px;
+}
+
+.outer h2 {
+	font-weight: 500;
+	font-size: 16px;
+	margin: 0;
+	padding: 4px 0;
+	color: #555;
+	display: inline-block;
+}
+
+.count {
+	font-weight: 700;
+	font-size: 16px;
+	margin: 0;
+	padding: 4px 0;
+	color: #555;
+}
